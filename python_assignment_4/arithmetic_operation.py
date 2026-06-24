@@ -26,3 +26,7 @@ print("Modulus of a and b is:", modulus)
 #backward division = a // b
 backward_division = a // b
 print("Backward Division of a and b is:", backward_division)
+
+    #factorial = a!
+math_factorial = 5
+print("Factorial of 5 is:", math_factorial)
